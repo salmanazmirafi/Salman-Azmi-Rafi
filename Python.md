@@ -1,5 +1,0 @@
-# Getting Started Python
-
-```bash
-
-```
